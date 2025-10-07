@@ -3,12 +3,11 @@
 Repositório com projetos desenvolvidos a partir dos roadmaps do [roadmap.sh](https://roadmap.sh). O objetivo é praticar habilidades, consolidar conhecimento e construir um portfólio organizado e escalável.
 
 ## Sumário
-- [Introdução](#introdução)
-- [Estrutura do Repositório](#estrutura-do-repositório)
-- [Projetos](#projetos)
-- [Como Executar Localmente](#como-executar-localmente)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
+- [roadmap.sh-projects](#roadmapsh-projects)
+  - [Sumário](#sumário)
+  - [Introdução](#introdução)
+  - [Projetos](#projetos)
+  - [Licença](#licença)
 
 ## Introdução
 Este repositório agrupa exercícios e desafios práticos inspirados nos mapas de aprendizado do roadmap.sh, com foco em clareza, acessibilidade e boa organização.
